@@ -1,5 +1,0 @@
-body{font-family:sans-serif;text-align:center;background:#fff0f2;color:#442;}
-h1{color:#a44;}button{margin:10px;padding:10px 20px;border:none;border-radius:20px;cursor:pointer;}
-.yes{background:pink;} .no{background:#fbb;}
-.pw-overlay{position:fixed;inset:0;background:rgba(0,0,0,.5);display:flex;align-items:center;justify-content:center;}
-.pw-card{background:white;padding:20px;border-radius:10px;text-align:center;}
